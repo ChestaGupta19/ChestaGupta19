@@ -20,7 +20,7 @@
 
 ---
 
-## About Me
+## About Me:
 
 - B.Tech CS @ PSIT Kanpur
 - Problem Solving Enthusiast
@@ -30,7 +30,7 @@
 
 ---
 
-## Tech Stack
+## Tech Stack:
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-## Featured Project
+## Featured Project:
 
 | Project | Description | Tech Focus |
 |---|---|---|
@@ -72,7 +72,7 @@
 
 ---
 
-## GitHub Activity
+## GitHub Activity:
 
 <div align="center">
 
@@ -93,7 +93,7 @@
 
 ---
 
-## Connect With Me
+## Connect With Me:
 
 <div align="center">
 
