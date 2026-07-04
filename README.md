@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A11CB,100:2575FC&text=Chesta%20Gupta&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=B.Tech%20CS%20%40%20PSIT%20Kanpur%20%7C%20Web%20Development%20%7C%20AI%2FML%20%7C%20Cybersecurity&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:003B36,100:0B6B43&text=Chesta%20Gupta&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=B.Tech%20CS%20%40%20PSIT%20Kanpur%20%7C%20Web%20Development%20%7C%20AI%2FML%20%7C%20Cybersecurity&descAlignY=58&descSize=17" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=Problem+Solving+Enthusiast;Interested+in+Web+Development%2C+AI%2FML+and+Cybersecurity;Building+Clean+and+Useful+Projects;Learning+Emerging+Technologies" alt="Typing SVG" />
 
@@ -76,13 +76,18 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChestaGupta19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Chesta Gupta GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChestaGupta19&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br />
-<br />
-
 <img src="https://streak-stats.demolab.com?user=ChestaGupta19&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br />
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChestaGupta19&theme=tokyonight" alt="GitHub profile summary" />
+
+<br />
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChestaGupta19&theme=tokyonight" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChestaGupta19&theme=tokyonight" alt="Most commit language" />
 
 </div>
 
@@ -110,6 +115,6 @@
 <br />
 <br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2575FC,100:6A11CB&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0B6B43,100:003B36&section=footer" />
 
 </div>
