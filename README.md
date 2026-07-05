@@ -15,7 +15,9 @@
 <a href="mailto:guptachesta943@gmail.com">
   <img src="https://img.shields.io/badge/Email-guptachesta943%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
+<a href="https://chestagupta19.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-0B6B43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 </div>
 
 ---
